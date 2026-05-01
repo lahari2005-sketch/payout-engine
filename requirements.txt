@@ -116,6 +116,7 @@ Pygments==2.19.2
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
 python-json-logger==4.0.0
+python-3.11.9
 pytz==2025.2
 pywin32==311
 pywinpty==3.0.3
@@ -170,3 +171,4 @@ websocket-client==1.9.0
 Werkzeug==3.1.5
 widgetsnbextension==4.0.15
 wrapt==2.1.1
+
